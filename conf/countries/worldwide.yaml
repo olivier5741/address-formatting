@@ -988,6 +988,7 @@ IE:
         {{{house_number}}} {{{road}}}
         {{#first}} {{{suburb}}} || {{{city_district}}} || {{{neighbourhood}}} {{/first}}
         {{#first}} {{{city}}} || {{{town}}} || {{{village}}} || {{{hamlet}}} || {{{municipality}}} {{/first}}
+        {{{postcode}}}
         {{{county}}}
         {{{country}}}
     replace:
